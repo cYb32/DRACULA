@@ -24,8 +24,8 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/VENOMxCRAZYOP/VENOMxDDOS
-   cd VENOMxDDOS
+   https://github.com/cYb32/DRACULA.git
+   cd DRACULA
    ```
 
 2. Install the required libraries:
